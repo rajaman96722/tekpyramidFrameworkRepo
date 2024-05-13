@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T16:13:45 IST" name="Default suite" finished-at="2024-05-10T16:18:55 IST" duration-ms="309934">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.createOrgTest()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" name="createOrgTest" class="com.tekpyramid.crm.orgtest.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-05-10T16:13:45 IST" name="Default test" finished-at="2024-05-10T16:18:55 IST" duration-ms="309934">
+      <class name="com.tekpyramid.crm.orgtest.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:13:45 IST" name="configBS" finished-at="2024-05-10T16:13:45 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:13:45 IST" name="configBC" finished-at="2024-05-10T16:14:07 IST" duration-ms="22013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:14:07 IST" name="configBM" finished-at="2024-05-10T16:14:16 IST" duration-ms="8792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrgTest()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:14:16 IST" name="createOrgTest" finished-at="2024-05-10T16:18:52 IST" duration-ms="275695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:18:52 IST" name="configAM" finished-at="2024-05-10T16:18:54 IST" duration-ms="2530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:18:54 IST" name="configAC" finished-at="2024-05-10T16:18:55 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.tekpyramid.crm.orgtest.CreateOrganizationTest@1b66c0fb]" started-at="2024-05-10T16:18:55 IST" name="configAS" finished-at="2024-05-10T16:18:55 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.tekpyramid.crm.orgtest.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
